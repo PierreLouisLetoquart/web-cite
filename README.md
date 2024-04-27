@@ -4,7 +4,7 @@
 
 If you want to cite a YouTube video or other internet resources, the currently available method is to write it yourself. But wait... now you only need to copy and paste the link of the resource into the generator!
 
-<video src='/assets/vid.mp4' width=300/>
+<video src='/assets/vid.mp4' width='300'/>
 
 ## Usage
 
