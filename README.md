@@ -4,7 +4,7 @@
 
 If you want to cite a YouTube video or other internet resources, the currently available method is to write it yourself. But wait... now you only need to copy and paste the link of the resource into the generator!
 
-![vido](https://github.com/PierreLouisLetoquart/web-cite/assets/78484833/3e416b95-c17a-48a0-b41b-25a0a6012ced)
+https://github.com/PierreLouisLetoquart/web-cite/assets/78484833/3e416b95-c17a-48a0-b41b-25a0a6012ced
 
 ## Usage
 
